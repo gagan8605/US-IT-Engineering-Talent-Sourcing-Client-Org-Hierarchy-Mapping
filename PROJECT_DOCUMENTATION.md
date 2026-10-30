@@ -1,108 +1,94 @@
-# Project Dossier: US IT & Engineering Talent Sourcing & Client Org Mapping Intelligence
+# Project Dossier: Enterprise Organizational Intelligence & Executive Mapping Analysis
 
-**Role Focus:** US Technical Recruiter / Talent Acquisition Specialist (Direct Hire & Enterprise Accounts)  
-**Target Profile:** Ascendion — Recruiter (Fresher) - US (Vadodara / Night Shift)  
+**Domain:** Secondary Research, Corporate Intelligence, OSINT & Data Auditing  
+**Applicability:** Research Analyst, Market Intelligence, Talent Research & Business Analysis Roles  
 **Author:** Gagan Dhanapune  
-**Deliverables:** Master Excel Workbook (`Gagan_Dhanapune_DataAnalyst.xlsx`), Sourcing Matrix, and Verification Audit Trail  
+**Deliverables:** Master Excel Workbook (`Gagan_Dhanapune_DataAnalyst.xlsx`), Verification Audit Matrix, and Methodology Dossier  
 
 ---
 
-## 1. Project Title & Strategic Resume Positioning
+## 1. Project Overview & Objective
 
-### Recommended Resume Project Titles:
-1. **Primary Title:** *US IT & Engineering Talent Intelligence & Client Org-Hierarchy Mapping*
-2. **Alternative Title:** *North America Technical Sourcing & Hiring Authority Mapping (Direct Hire)*
+This project demonstrates rigorous **secondary market research, open-source intelligence (OSINT), corporate hierarchy modeling, and multi-source data verification**.
 
-### Short Resume Summary (One-Liner):
-> *"Executed end-to-end talent intelligence and decision-maker mapping across 5 US enterprise clients, leveraging advanced Boolean operators, LinkedIn People search, and multi-source verification to identify 20+ validated hiring managers for high-impact engineering requisitions."*
-
----
-
-## 2. Direct Alignment with Ascendion US Recruiter Job Description
-
-| Ascendion JD Requirement | What Was Performed in This Project | Demonstrable Recruiter Competency |
-| :--- | :--- | :--- |
-| **"Review job description & execute search plan"** | Deconstructed 5 specialized US engineering job requisitions (Platform Engineering, RF/Microwave Mechanical, Automation & Packaging) across hybrid & on-site US locations (Chicago, Woodridge, Roselle). | Technical Requirement Analysis, Requisition intake comprehension. |
-| **"Source candidates using multiple channels"** | Deployed Boolean search strings across LinkedIn Talent/People directories, SEC regulatory filings, company press releases, and specialized technical networks. | Multi-Channel Sourcing, Talent Pipeline Mapping, Boolean Search Expertise. |
-| **"Submitting candidates to hiring managers"** | Identified exact reporting managers (C-Suite, SVP, VP, Directors, Site GMs) who own hiring budgets rather than generic HR inboxes. | Client Org Chart Comprehension, Account Penetration. |
-| **"Partner with onsite sales team in North America"** | Built cross-functional intelligence on business divisions (e.g., Crown Holdings/Signode APT division, Teledyne Storm Microwave) to support US account managers. | Client Intelligence, Industry Knowledge (FinTech, InsurTech, Aerospace/Defense). |
-| **"Proficiency with MS Office"** | Built an 8-sheet Excel workbook with visual hierarchies, clickable LinkedIn hyperlinks, verification tracking, and consolidated master views. | Advanced Excel, Candidate/Contact Tracking, Reporting & Formatting. |
+### Core Objectives:
+1. **Corporate Structure Analysis:** Deconstruct internal reporting lines and leadership hierarchies across 5 diverse enterprise companies spanning FinTech, InsurTech SaaS, Industrial Automation, Aerospace & Defense Electronics, and Commercial Manufacturing.
+2. **Key Stakeholder Identification:** Pinpoint primary operational decision-makers, departmental leaders, and executive sponsors across specialized engineering divisions.
+3. **Data Quality Auditing:** Cross-reference disparate web sources, press releases, corporate announcements, and regulatory filings to identify stale data, executive turnover, and structural realignments.
+4. **Structured Analytical Reporting:** Model and deliver a comprehensive multi-sheet Excel dataset featuring verification statuses, categorized hierarchies, and direct reference trails.
 
 ---
 
-## 3. What Was Done (Project Workflow & Execution)
+## 2. Research Scope & Entity Overview
 
-### A. Requisition Intake & Location Analysis
-Analyzed 5 live US corporate openings across North American enterprise accounts:
-1. **Alliant Credit Union (Chicago, IL - Hybrid):** *Principal Platform Engineer* (Focus: Cloud, Data Infrastructure, Modern Banking Platforms).
-2. **CCC Intelligent Solutions (Chicago, IL - On-Site):** *Principal Platform Engineer* (Focus: InsurTech SaaS, Enterprise AI/ML, Cloud Architectures).
-3. **Signode / Crown Holdings (Roselle, IL):** *Mechanical Engineer* (Focus: Automation & Packaging Technologies - APT, Industrial Equipment).
-4. **Teledyne Technologies (Woodridge, IL - On-Site):** *Mechanical Engineer* (Focus: Teledyne Storm Microwave, RF/Microwave Cable Assemblies for Aerospace & Defense).
-5. **Focal Point LLC / Legrand (Chicago, IL):** *Mechanical Engineer II* (Focus: Architectural Lighting Systems, Commercial Product Development).
+The research surveyed 5 enterprise organizations across distinct industrial sectors:
 
-### B. Organizational Hierarchy Modeling (High-to-Low Structure)
-Applied US corporate governance and recruitment hierarchy tiers to map stakeholders:
-* **Tier 1 (C-Suite / Executive):** Chief Information Officers (CIO), Chief Technology Officers (CTO), Chief Product Officers (CPO), CEOs.
-* **Tier 2 (SVP / VP / Head):** Group Presidents, VPs of Global Automation, VPs of Product Innovation, Site General Managers.
-* **Tier 3 (Directors / Managers):** Senior Directors of Engineering, Directors of Sales & Applications.
-
----
-
-## 4. Methodology & Sourcing Techniques Used
-
-### 1. Advanced Boolean Search Syntax
-Executed targeted query strings to uncover hidden decision-makers:
-* `("Alliant Credit Union") AND ("CIO" OR "Chief Information Officer" OR "Head of Platform" OR "VP Engineering") AND ("Chicago")`
-* `("CCC Intelligent Solutions") AND ("CTO" OR "Chief Product Officer" OR "Platform Engineering" OR "CIO")`
-* `("Signode" OR "Crown Holdings") AND ("Roselle" OR "Chicago") AND ("Automation" OR "Packaging Technologies") AND ("President" OR "Director" OR "VP")`
-* `("Teledyne Storm Microwave" OR "Teledyne") AND ("Woodridge" OR "Chicago") AND ("General Manager" OR "Engineering Director" OR "Plant Manager")`
-* `("Focal Point" OR "Legrand") AND ("Chicago") AND ("Director of Engineering" OR "VP Product Development")`
-
-### 2. Multi-Source Critical Data Verification
-Unlike entry-level sourcing that blindly trusts unverified profiles, a strict **4-way verification protocol** was implemented:
-1. **Primary Platform:** LinkedIn Talent/People directories.
-2. **Official Disclosures:** Corporate leadership web portals & press releases.
-3. **Regulatory / Financial Records:** SEC 8-K / 10-K announcements for executive appointments and board transitions.
-4. **Trade Publications:** Specialized trade journals (*Packaging World*, *SDCExec*, *NeoCon*, *BusinessWire*).
-
-### 3. Data Cleansing & Audit Trail
-Identified and corrected 3 critical real-world data traps:
-* **Trap 1 (Executive Turnover):** Discovered former Alliant CDO (Sumeet Grover) had transitioned to UFCU. Removed to prevent bounced recruiter outreach.
-* **Trap 2 (Business Unit Ambiguity):** Recognized historical contact (Mohammed Minhajuddin) was associated with an overseas subsidiary (Signode India) rather than the Roselle, IL flagship. Replaced with active US leadership (Tom DiNardo - VP Global Automation, Mike Stein - VP Sales & Product).
-* **Trap 3 (Stale Tenures):** Highlighted contacts with outdated public mentions (>5 years without recent confirmation) as *UNVERIFIED* with audit warning flags.
-
----
-
-## 5. Key Discoveries & Hiring Decision-Maker Directory
-
-### Summary Table of Primary Hiring Decision-Makers:
-
-| Client Company | Targeted Role | Identified Primary Decision-Maker | Title & Management Level | Why This Contact Matters for Recruiter Outreach |
+| # | Enterprise Entity | Industry Sector | Functional Area | Facility / Target Location |
 | :--- | :--- | :--- | :--- | :--- |
-| **Alliant Credit Union** | Principal Platform Engineer | **Jamie Warder** | CIO & Head of Business Strategy (*C-Suite*) | Direct budget owner for cloud & engineering platform transformation; appointed July 2024. |
-| **CCC Intelligent Solutions** | Principal Platform Engineer | **Justin McWhirter** | Chief Information Officer (*C-Suite*) | Direct manager of enterprise IT & cloud operations; former AWS Solutions Architect leader. |
-| **CCC Intelligent Solutions** | Principal Platform Engineer | **Josh Valdez** | Chief Product Officer & Interim CTO (*C-Suite*) | Direct owner of AI software product engineering & technology roadmap; appointed Feb 2026. |
-| **Signode (Crown Holdings)** | Mechanical Engineer | **Tom DiNardo** | VP, Global Automation (*VP Level*) | Executive in charge of automated packaging systems development at Roselle flagship facility. |
-| **Teledyne Technologies** | Mechanical Engineer | **Ron Brunette** | General Manager, Storm Microwave (*Head / GM*) | Direct site authority over the Woodridge, IL manufacturing & RF engineering facility. |
-| **Focal Point LLC (Legrand)** | Mechanical Engineer II | **Colin Knight** | Senior Director of Engineering (*Director Level*) | Direct engineering functional manager supervising mechanical design teams in Chicago. |
+| 1 | **Alliant Credit Union** | Financial Services / Digital Banking | Cloud & Platform Infrastructure | Chicago, IL (Hybrid) |
+| 2 | **CCC Intelligent Solutions** | Enterprise InsurTech SaaS / AI | Cloud Architecture & Platform Systems | Chicago, IL (On-site) |
+| 3 | **Signode (Crown Holdings)** | Industrial Automation & Transit Packaging | Automation & Packaging Technologies (APT) | Roselle, IL (Flagship Hub) |
+| 4 | **Teledyne Technologies Inc.** | Aerospace & Defense Electronics | RF / Microwave Engineering (Storm Microwave) | Woodridge, IL (Manufacturing Site) |
+| 5 | **Focal Point LLC (Legrand)** | Architectural Lighting / Electrical | Mechanical Product Innovation & Engineering | Chicago, IL |
 
 ---
 
-## 6. Deliverable Architecture (`Gagan_Dhanapune_DataAnalyst.xlsx`)
+## 3. Research Methodology & Analytical Techniques
 
-The generated deliverable consists of **8 distinct, production-grade spreadsheets**:
-* **Sheet 1 (`Company & Job Postings`):** Base requisition intake tracker with direct LinkedIn requisition links.
-* **Sheets 2–6 (`1 - Alliant` to `5 - Focal Point`):** Granular company dossiers containing candidate/contact names, verified titles, hierarchy level, direct links, and outreach relevance rationale.
-* **Sheet 7 (`Consolidated Contacts`):** Master directory of 20 decision-makers, color-coded by enterprise account, with a dedicated verification status column (`VERIFIED`, `PARTIALLY VERIFIED`, `UNVERIFIED`).
-* **Sheet 8 (`Research Methodology`):** Comprehensive audit trail documenting sources, Boolean strings, and verification steps.
+### A. Advanced Boolean Logic & OSINT Extraction
+Executed systematic search algorithms across public business registries, professional directories, and corporate databases:
+* `("Alliant Credit Union") AND ("CIO" OR "Chief Information Officer" OR "Head of Business Strategy") AND ("Chicago")`
+* `("CCC Intelligent Solutions") AND ("CTO" OR "Chief Product Officer" OR "CIO") AND ("Platform")`
+* `("Signode" OR "Crown Holdings") AND ("Roselle" OR "Chicago") AND ("Automation" OR "Packaging") AND ("President" OR "Director" OR "VP")`
+* `("Teledyne Storm Microwave" OR "Teledyne") AND ("Woodridge") AND ("General Manager" OR "Engineering Director")`
+* `("Focal Point" OR "Legrand") AND ("Chicago") AND ("Director of Engineering" OR "VP Innovation")`
+
+### B. 4-Tier Cross-Verification Framework
+To ensure analytical integrity beyond surface-level assumptions, all records were validated across 4 independent evidence tiers:
+1. **Tier 1 (Official Disclosures):** Corporate executive portals, governance pages, and official leadership rosters.
+2. **Tier 2 (Regulatory & Press Records):** Official corporate announcements, SEC disclosures, and verified press releases.
+3. **Tier 3 (Trade & Industry Media):** Dedicated industry publications (*Packaging World*, *Supply Chain Executive*, *BusinessWire*, *NeoCon*, *EPS Magazine*).
+4. **Tier 4 (Professional Profiles):** Professional networks and public career registries to assess tenure recency.
+
+### C. Data Integrity Auditing & Anomaly Detection
+Through systematic auditing, three critical data anomalies were identified and resolved:
+* **Turnover Detection:** Uncovered that a key executive at Alliant Credit Union had departed for UFCU. Corrected the record to prevent reporting inaccurate organizational structure.
+* **Geographic / Subsidiary Disambiguation:** Differentiated historical personnel at overseas subsidiaries (Signode India) from active domestic leadership at the Roselle, IL flagship facility. Replaced outdated entries with verified US operational executives.
+* **Temporal Confidence Tagging:** Flagged records with uncorroborated recent public activity (>5 years without verified corporate mentions) as `UNVERIFIED` with explicit audit cautions.
 
 ---
 
-## 7. How to Present This in Your Ascendion Interview
+## 4. Key Research Discoveries
 
-### "Tell me about your talent sourcing & recruitment understanding?"
-> *"For a direct-hire US recruitment desk, understanding the client's business structure and exact hiring manager persona is critical. In my recent US Talent Sourcing & Client Intelligence project, I mapped 5 North American enterprise client accounts across FinTech, InsurTech, and Aerospace. I used advanced Boolean search and multi-channel verification to build an organizational map from C-Suite down to Engineering Directors. By cross-checking press releases and SEC filings against LinkedIn, I identified key executive movements—such as new CIO and CTO appointments—ensuring our submissions reach the true budget holders. I consolidated all intelligence into a structured Excel master tracking sheet ready for recruiter outreach."*
+### Summary of Identified Key Leaders & Structural Findings:
+
+| Enterprise Entity | Primary Decision-Maker | Official Title | Hierarchy Tier | Research Insights & Verification Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Alliant Credit Union** | **Jamie Warder** | Chief Information Officer (CIO) | C-Suite | Appointed July 2024; oversees enterprise cloud, technology architecture, and digital operations. (*Verified*) |
+| **CCC Intelligent Solutions** | **Josh Valdez** | Chief Product Officer & Interim CTO | C-Suite | Appointed Feb 2026; leads product strategy and enterprise AI-driven technology roadmap. (*Verified*) |
+| **CCC Intelligent Solutions** | **Justin McWhirter** | Chief Information Officer (CIO) | C-Suite | Appointed Aug 2024; oversees enterprise infrastructure, cloud operations, and application delivery. (*Verified*) |
+| **Signode (Crown Holdings)** | **Tom DiNardo** | VP, Global Automation | VP Level | Commercial & operational leader for automation systems at the Roselle flagship center. (*Verified*) |
+| **Teledyne Technologies** | **Ron Brunette** | General Manager, Storm Microwave | Site GM / Head | Direct operational head of the Woodridge, IL specialized RF/microwave manufacturing facility. (*Verified*) |
+| **Focal Point LLC (Legrand)** | **Colin Knight** | Senior Director of Engineering | Director Level | Functional head directing mechanical design and engineering teams in Chicago. (*Verified*) |
 
 ---
-*Created for Ascendion US Recruitment Selection Process | Candidate: Gagan Dhanapune*
 
+## 5. Analytical Deliverable Architecture (`Gagan_Dhanapune_DataAnalyst.xlsx`)
+
+The dataset is structured across **8 specialized sheets**:
+* **Sheet 1 (`Company & Job Postings`):** Scope baseline, operational requirements, and target entities.
+* **Sheets 2–6 (`1 - Alliant` to `5 - Focal Point`):** Entity-specific dossiers containing individual stakeholder profiles, verified titles, hierarchy classifications, direct URLs, and analytical relevance summaries.
+* **Sheet 7 (`Consolidated Contacts`):** Centralized master repository of 20 mapped executives, color-coded by organization, with explicit `Verification Status` designations (`VERIFIED`, `PARTIALLY VERIFIED`, `UNVERIFIED`).
+* **Sheet 8 (`Research Methodology`):** Complete research audit log documenting source attribution, search syntax, and data cleaning rationale.
+
+---
+
+## 6. Core Analytical Competencies Demonstrated
+
+* **Secondary Market & Corporate Research:** Autonomous discovery and synthesis of qualitative business intelligence from fragmented web data.
+* **Critical Data Verification & OSINT:** Multi-source validation against corporate disclosures, SEC filings, and trade press.
+* **Organizational Structure Reverse-Engineering:** Mapping corporate command hierarchies from C-Suite through operational management.
+* **Structured Data Modeling & Synthesis:** Designing clean, standardized, audit-ready Excel models utilizing Python (`openpyxl`).
+
+---
+*Enterprise Organizational Intelligence Project | Author: Gagan Dhanapune*
